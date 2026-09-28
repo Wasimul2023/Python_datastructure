@@ -25,7 +25,6 @@ numbers = [10,20,30]
  5 index 0 তে যোগ করো
  [60,70] একসাথে যোগ করো
 """
-
 numbers=[10,20,30]
 numbers.append(40)
 numbers.insert(0,5)
